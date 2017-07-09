@@ -1,4 +1,4 @@
-CREATE UAS
+# CREATE UAS
 
 This is the repository for our Land O'Lakes HeroX drone competition. We will be using ArduPilot as our code base. The majority of the code will stay the same however we will be modifying the object avoidance library located: ardupilot/libraries/AP_Proximity/
 

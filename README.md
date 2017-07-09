@@ -1,3 +1,20 @@
+CREATE UAS
+
+This is the repository for our Land O'Lakes HeroX drone competition. We will be using ArduPilot as our code base. The majority of the code will stay the same however we will be modifying the object avoidance library located: ardupilot/libraries/AP_Proximity/
+
+Some things to work on:
+- [ ] Check that static system works (Using basic plane outline)
+- [ ] Check that the tera ranger towers work dynamically (Flying cheap drone into walls and objects)
+- [ ] Check that the system works for our custom configuration
+- [ ] Check that the technology stack works together
+- [ ] Check how fast our sensors can react (Can we do time of flight object avoidance)
+- [ ] Check that the system works for a basic landing environment
+- [ ] Landing and making contact with charging plate
+
+
+
+Please see below for information specific to Ardupilot
+
 # ArduPilot Project
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ArduPilot/ardupilot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
